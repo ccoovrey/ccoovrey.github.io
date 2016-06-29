@@ -1,32 +1,57 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
+//@charset "utf-8";
+// Imports
+@import "bootstrap";
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+@import "animate";
+@import "layout";
+@import "header";
+@import "posts";
+@import "archive";
+@import "footer";
+@import "syntax-highlighting";
 
+// Formatting
+.center-image {
+	margin: 0 auto;
+	display: block;
+}
 
+.icon > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
+
+.center {
+	text-align: center;
+}
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+//$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+//$base-font-size:   16px;
+//$base-font-weight: 400;
+//$small-font-size:  $base-font-size * 0.875;
+//$base-line-height: 1.5;
 
-$spacing-unit:     30px;
+//$spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #e6e6fa;
-$brand-color:      #2a7ae2;
+//$text-color:       #111;
+//$background-color: #e6e6fa;
+//$brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+//$grey-color:       #828282;
+//$grey-color-light: lighten($grey-color, 40%);
+//$grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+//$content-width:    800px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+//$on-palm:          600px;
+//$on-laptop:        800px;
 
 
 
@@ -37,17 +62,17 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
+//@mixin media-query($device) {
+//    @media screen and (max-width: $device) {
+//        @content;
+//    }
+//}
 
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+//@import
+//        "base",
+//        "layout",
+//        "syntax-highlighting"
+//;
