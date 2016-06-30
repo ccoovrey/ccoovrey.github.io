@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 {: .center}
-![coov](/images/about/coov.jpg){:height="300px" widith="300px"}
+![coov](/images/about/coov.jpg){:height="310px" widith="430px"}
 
 {: .center}
 _I'm Chris Coovrey, a senior developer in Austin, TX. I seek to deeply_ \\
@@ -15,7 +15,7 @@ _applications. I have experience in energy, logistics and quantitative_ \\
 _services. When I'm not coding, I live for scuba diving and barbeque._ 
 
 {: .center}
-![mapooh](/images/about/max_crop.jpg){:height="300px" width="300px"}
+![mapooh](/images/about/max_crop.jpg){:height="310px" widith="430px"}
 
 {: .center}
 _I'm Max, I don't like to code, but I love eating barbeque and sleeping._
