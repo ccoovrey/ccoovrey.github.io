@@ -4,7 +4,7 @@ title:  "Test Driven Intelligence"
 date:   2016-06-01 01:45:23 +0000
 categories: web-development
 ---
-![img](/images/about/coov.jpg){:height="200px" width="200px"}
+![img](/images/about/coov.jpg){:height="310px" width="250px"}
 
 Wow, my first blog! A little bit about myself, for the past eight years
 I've been a Quant Developer. What's a Quant Developer you ask, well its
