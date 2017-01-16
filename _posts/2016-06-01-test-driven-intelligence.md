@@ -2,18 +2,31 @@
 layout: post
 title:  "Test Driven Intelligence"
 date:   2016-06-01 01:45:23 +0000
-categories: web-development
+categories: machine-learning
 ---
 ![img](/images/about/coov.jpg){:height="310px" width="250px"}
 
 Wow, my first blog! A little bit about myself, for the past eight years
-I've been a Quant Developer. What's a Quant Developer you ask, well its
+I've been a Quantitative Developer or Quant for short. What's a Quant Developer you ask, well its
 someone who codes and develops pricing models and algorithms in the financial 
 industry. As you might suspect, it's not like it was in years past, things
-have been getting worse...
+have been getting worse in finance (especially banking) ...
 
 [![img](http://img.youtube.com/vi/wYlptbR0Dkw/0.jpg)](http://www.youtube.com/watch?v=wYlptbR0Dkw){:height="180px" width="180px" border="10"}
 
+While I was a Quant I have seen the financial industry blow up in a spectacular way and slowly decay. In this time period, I've seen banking go from being 
+based solely on exotic and structured derivative activity to a back to basics approach on older established services such as corporate finance and non derivative asset 
+management. BTW, one of the best articles I've seen on the whys for the 2007 blowup is [Recipe for Disaster: The Formula That Killed Wall Street](https://www.wired.com/2009/02/wp-quant/),
+on how dependent the industry was on a single paradigm. Hindsight of course is always 20/20, but When everyone depends on a single way of viewing the world for risk and profit understanding, we should expect dire consequences.
+
+So let's now move to 2016 and the premise of my new blog. As one can see there is a new force that is "eating up the world" by bringing both insight and 
+immense productivity: **machine intelligence**. Shivon Zilis, I think is the first person to come up with this term, as she states: *I mean “machine intelligence” as a 
+unifying term for what others call machine learning and artificial intelligence...* (talk about all the great companies in this place)  I would have preferred to avoid a different label but when I tried either “artificial intelligence” or “machine learning” both proved to too narrow: when I called it “artificial intelligence” too many people were distracted by whether certain companies were “true AI,” and when I called it “machine learning,” many thought I wasn’t doing justice to the more “AI-esque” like the various flavors of deep learning*. This is a great article to read both her
+[machine intelligence](https://medium.com/@shivon/the-current-state-of-machine-intelligence-f76c20db2fe1#.maunnvt97) and [machine intelligence 2.0](https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-2-0) articles on this new industry segment. 
+
+Talk about why depending on one view of the world or a model in general is bad. Talk about goldman sachs. Then talk about my aims in this blog, why testing a model
+
+talk about how I've used test driven stuff in my development and quant models. 
 
 When things get bad and you've invested time and experience in 
 an industry, it's still tough to move into something different. There is hope 
