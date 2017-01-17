@@ -8,11 +8,9 @@ permalink: /about/
 ![coov](/images/about/coov.jpg){:height="310px" widith="430px"}
 
 {: .center}
-_I'm Chris Coovrey, a senior developer in Austin, TX. I seek to deeply_ \\
-_understand the intersection of machine intelligence and web development._ \\
-_I'm fascinated by technology, learning and developing practical_ \\
-_applications. I have experience in energy, logistics and quantitative_ \\
-_services. When I'm not coding, I live for scuba diving and barbeque._ 
+_I'm Chris Coovrey, a data scientist/engineer at [Zync Up](https://www.zync-up.com)_ \\
+_in Austin, TX. When I'm not coding or building models,_ \\
+_I live for scuba diving and barbeque._ 
 
 {: .center}
 ![mapooh](/images/about/max_crop.jpg){:height="310px" widith="430px"}
@@ -38,8 +36,7 @@ This is a plug for some of the cool tools I used to develop my website:
 * [Bootstrap](http://getbootstrap.com) - Bootstrap is a fantastic CSS
 	framework, it makes "molta bella" web pages. 
 
-* [Vim](http://www.vim.org) - Do you want to write at the speed of light - try
-  vim.
+* [Vim](http://www.vim.org) - vim is very cool!
 
 * [tmux](https://tmux.github.io) - Cut down on all your screens, save lots of
   money, save the planet and be a keystroke wizard.
