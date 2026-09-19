@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Stochastic Gardener"
+title:  "Start of PhD at TX State Univ."
 date:   2026-08-19 13:45:23 +0000
 categories: scientific-machine-learning
 ---
-![img](/images/about/coov.png){:height="310px" width="430px"}
+![img](/images/posts/txst.png){:height="175px" width="200px"}
 
 I just started a PhD in Computer Science at [Texas State University](https://www.txst.edu/) and this will be my
 blog post as I journey towards a PhD. My research advisor is [Dr Aniruddha Bora](https://www.linkedin.com/in/aniruddha-bora-49b73a80/) and I will be working in the [SPARKS Research Lab](https://aniruddhabora.github.io/spark/),
